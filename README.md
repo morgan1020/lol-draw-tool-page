@@ -23,3 +23,7 @@
 - 不同手機或不同瀏覽器
 
 如果清除瀏覽器資料，歷史數據也可能一併消失。
+
+## 素材來源
+
+位置圖示素材來源：[League of Legends Wiki - Role icons](https://wiki.leagueoflegends.com/en-us/Category:Role_icons)。
